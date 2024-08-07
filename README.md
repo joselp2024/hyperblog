@@ -7,6 +7,7 @@ hyperblog de curso Git/Github  platzi
 - asdfasdfasf
 - asdfasdf
 - añadimos un nuevo punto
+- añadimos nuevos puntos despues del stash
 
 ##adfadf
 *amEnim Ea.Lorem ipSum Dolor sit amet consectetur, adipisicing elit. Sunt ut omnis placeat eum odit, facere esse dolore officiis unde adipisci. nisi incidunt beatae pariatur veniam sunt c*
