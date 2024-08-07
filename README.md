@@ -6,6 +6,7 @@ hyperblog de curso Git/Github  platzi
 - sadasdf
 - asdfasdfasf
 - asdfasdf
+- añadimos un nuevo punto
 
 ##adfadf
 *amEnim Ea.Lorem ipSum Dolor sit amet consectetur, adipisicing elit. Sunt ut omnis placeat eum odit, facere esse dolore officiis unde adipisci. nisi incidunt beatae pariatur veniam sunt c*
